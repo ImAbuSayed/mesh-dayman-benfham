@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-dayman-benfham/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Mesh Dayman Benfham](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get License For Mesh Dayman Benfham](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
